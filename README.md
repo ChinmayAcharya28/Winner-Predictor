@@ -1,6 +1,6 @@
 # Winner-Predictor
 
-This is a simple python script which can be used to predict the winner. This script calculates the winner prediction on the basis of the previous team records. 
+This is a simple python script which can be used to predict the winner. This script calculates the winner prediction on the basis of the previous team records. Please find [blog](https://medium.com/@chinmayacharya28/how-to-predict-the-winner-using-a-simple-piece-of-code-1f1bd563ae7a) for more details.
 
 ### Prerequisite
 
